@@ -59,7 +59,7 @@ function App() {
         console.log("Token Name: ", tokenName);
         console.log("Token Symbol: ", tokenSymbol);
         console.log("Token Supply: ", tokenSupply);
-        console.log("Token Owner: ", tokenOwner);
+        console.log("Token Owner Name: ", tokenOwner);
       }
     } catch (error) {
       console.log(error);
